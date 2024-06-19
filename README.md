@@ -1,9 +1,9 @@
 # **Wine Vision App** <img src="assets/logo.png" width="85" height="45" /> 
-***Discover the physiochemical secrets to what makes a wine wonderful...***
+***Discover the physiochemical secrets to what makes wine wonderful...***
 
 *You can visit the app directly by clicking here* &darr; &darr; &darr; 
 
-[***R Version***](https://winevisionr.herokuapp.com/)
+[***R Version [Heroky server is no longer running:(]***](https://winevisionr.herokuapp.com/)
 
 
 ## Welcome!
@@ -36,7 +36,7 @@ From a business perspective, producers are constantly looking for ways to outper
 
 <img src="https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480x270//9/2/5/139925_160412_PRS_AWRI_GAGO_0262.jpg" width="550" height="350" /> 
 
-## App Description [NEEDS TO BE MODIFIED]
+## App Description
 The Vinho Verde wine Dashboard has three tabs; Interactive Graphics, Explore the Dataset and Machine Learning.
 
 The Interactive Graphics page contains a number of graphis to explore the effects of physicochemical properties on wine quality. On the left hand side users are able to select the wine type (eg. red wine, white wine) as well as the physicochemical features of interest, with subset ranges if they so desire. Some possible visualizations are as follows:
