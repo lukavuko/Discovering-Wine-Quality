@@ -1,4 +1,4 @@
-# **The Wine Vision App** [2021] <img src="assets/logo.png" width="85" height="45" /> 
+# [2021] **The Wine Vision App**  <img src="assets/logo.png" width="85" height="45" /> 
 ***Discover the physiochemical secrets to what makes wine so wonderful...***
 
 *This is a demo dashboard visualizing the key quality predicting physiochemical characteristics of some of the worlds finest Vino Verde wines of Northern Portugal.*
