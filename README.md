@@ -1,8 +1,9 @@
 # **Wine Vision App** <img src="assets/logo.png" width="85" height="45" /> 
-***Discover the physiochemical secrets to what makes wine wonderful...***
+***Discover the physiochemical secrets to what makes wine so wonderful...***
 
-*You can visit the app directly by clicking here* &darr; &darr; &darr; 
+*This is a demo dashboard visualizing the key quality predicting physiochemical characteristics of some of the worlds finest Vino Verde wines of Northern Portugal.*
 
+*You can visit the app here* &darr; &darr; &darr; 
 [***R Version [Heroku down since 2022:(]***](https://winevisionr.herokuapp.com/)
 
 
@@ -12,7 +13,7 @@
 This page is our homebase providing you information on the project. 
 Navigate directly to a section of your choice or scroll down to find out more.
 
-* [What are we doing? (And why?)](#what-are-we-doing)
+* [What are we doing?](#what-are-we-doing)
 * [Describing the App](#app-description)
 * [Describing the Data](#the-data)
 * [A Fun Usage Scenario](#a-fun-usage-scenario)
