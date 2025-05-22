@@ -3,7 +3,7 @@
 
 *You can visit the app directly by clicking here* &darr; &darr; &darr; 
 
-[***R Version [Heroku server is down since 2022:(]***](https://winevisionr.herokuapp.com/)
+[***R Version [Heroku down since 2022:(]***](https://winevisionr.herokuapp.com/)
 
 
 ## Welcome!
